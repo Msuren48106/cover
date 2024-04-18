@@ -147,9 +147,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-```
-Screenshot (13).png
-```
+![alt text](<Screenshot (13).png>)
 
 
 ## RESULT:
